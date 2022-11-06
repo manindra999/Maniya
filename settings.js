@@ -30,8 +30,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+94768900035'] // owner number
-global.ownername = "😎
-m̸͎̱̖̼͕̙̤̣̘͋̐́̋͑͘͝ă̷͚͇͚͂̈̉͘̕͠n̷̳̥͈̣̋̀̈̈́̏̃̍͝į̵̬̳̩̲̞̗͓̓ǹ̴̲͎̠̌̿́͘̕̚d̷̦͍̘͇̱͚̋̒͌͜r̴̘̒͆̇̀̌͒͒̚ȧ̶̞̺̻̩̦̿̒͊̋̌ ̸͔̓̓̀̎ş̶̪̦͇͙̮̃͛͐͗̈́̿ą̶̙̆̃̌̇͆̕͘ḿ̴̨̭̖̼̦̰̱̙̙̅̍̂̇͆͜m̶̪̱͎̘̖̠̘͕̳͗͗͑͠à̵̼͙͕͕͙̦̟͖̒̓̿n̷͈̭̪̾̽̍̔̃̿͊̅̌͝ą̵̮͋̓͒̂̿́͛❯❯" // owner name
+global.ownername = "😎ᴍᴀɴɪɴᴅʀᴀ ꜱᴀᴍᴍᴀɴᴀ❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -50,7 +49,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94768900035']
 global.ownertag = '+94768900035' //your tag number
-global.botname = m̸͎̱̖̼͕̙̤̣̘͋̐́̋͑͘͝ă̷͚͇͚͂̈̉͘̕͠n̷̳̥͈̣̋̀̈̈́̏̃̍͝į̵̬̳̩̲̞̗͓̓ǹ̴̲͎̠̌̿́͘̕̚d̷̦͍̘͇̱͚̋̒͌͜r̴̘̒͆̇̀̌͒͒̚ȧ̶̞̺̻̩̦̿̒͊̋̌ ̸͔̓̓̀̎ş̶̪̦͇͙̮̃͛͐͗̈́̿ą̶̙̆̃̌̇͆̕͘ḿ̴̨̭̖̼̦̰̱̙̙̅̍̂̇͆͜m̶̪̱͎̘̖̠̘͕̳͗͗͑͠à̵̼͙͕͕͙̦̟͖̒̓̿n̷͈̭̪̾̽̍̔̃̿͊̅̌͝ą̵̮͋̓͒̂̿́͛' //ur bot name
+global.botname = 'ᴍᴀɴɪɴᴅʀᴀ ꜱᴀᴍᴍᴀɴᴀ' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
